@@ -16,6 +16,7 @@ J'apprends par la pratique : mes labos vont de la segmentation VLAN à des archi
 - 🔐 [Architecture réseau sécurisée PME](lien-du-repo) — FortiGate, DMZ, portail captif RADIUS, SIEM Splunk
 - 🐍 [Outil d'audit réseau Python](https://github.com/privaekoreminang/outil-audit-reseau-nmap-python) — Nmap + génération de rapports automatisée
 - 🛡️ [Plateforme SOC unifiée](lien-du-repo) — Wazuh, Suricata, Splunk pour la détection et corrélation d'incidents
+- 📞 [Déploiement VoIP sécurisé (CUCM)](https://github.com/privaekoreminang/Deploiement-VOIP-CUCM) — CUCM, QoS, chiffrement TLS/SRTP, analyse Wireshark
 
 ## 📫 Me contacter
 
