@@ -17,10 +17,14 @@ J'apprends par la pratique : mes labos vont de la segmentation VLAN à des archi
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-2E86C1?style=flat)
+![EIGRP](https://img.shields.io/badge/EIGRP-2E86C1?style=flat)
 ![VLAN](https://img.shields.io/badge/VLAN-2E86C1?style=flat)
+![STP%2FRSTP](https://img.shields.io/badge/STP%2FRSTP-2E86C1?style=flat)
 ![ACL](https://img.shields.io/badge/ACL-2E86C1?style=flat)
+![VPN%20IPSec](https://img.shields.io/badge/VPN%20IPSec-2E86C1?style=flat)
+![NAT%2FPAT](https://img.shields.io/badge/NAT%2FPAT-2E86C1?style=flat)
 ![RADIUS](https://img.shields.io/badge/RADIUS-2E86C1?style=flat)
-![GNS3](https://img.shields.io/badge/GNS3-2E86C1?style=flat)
 
 **SOC & Supervision**
 
@@ -41,6 +45,7 @@ J'apprends par la pratique : mes labos vont de la segmentation VLAN à des archi
 **Développement & Automatisation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Systèmes**
 
