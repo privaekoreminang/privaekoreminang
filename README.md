@@ -60,7 +60,7 @@ J'apprends par la pratique : mes labos vont de la segmentation VLAN à des archi
 
 ## 📫 Me contacter
 
-- LinkedIn : [Priva EKORE MINANG](https://www.linkedin.com/in/priva-ekore-minang-023107420?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn : [Priva EKORE MINANG](https://www.linkedin.com/in/priva-ekore-minang)
 - Email : privaekoreminang2023@gmail.com
 
 📍 Libreville, Gabon — à la recherche d'un stage académique de 3 mois
